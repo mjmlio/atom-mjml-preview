@@ -1,0 +1,20 @@
+{
+  "extends": "airbnb",
+  "parser": "babel-eslint",
+  "globals": {
+    "atom": true
+  },
+  "rules": {
+    "padded-blocks": 0,
+    "space-before-function-paren": 0,
+    "semi": 0,
+    "react/require-extension": "off",
+    "react/jsx-filename-extension": 0,
+    "react/prop-types": 0
+  },
+  "settings": {
+    "import/core-modules": [
+      "atom"
+    ]
+  }
+}

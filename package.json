@@ -1,0 +1,23 @@
+{
+  "name": "mjml-preview",
+  "main": "./lib/mjml-preview.js",
+  "version": "0.0.1",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "repository": "https://github.com/atom/mjml-preview",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "mjml": "^3.0.1",
+    "atom-space-pen-views": "^2.0.5"
+  },
+  "devDependencies": {
+    "eslint": "^3.7.1",
+    "eslint-config-airbnb-base": "^8.0.0",
+    "eslint-plugin-import": "^2.0.0",
+    "babel-eslint": "^6.1.2"
+  }
+}

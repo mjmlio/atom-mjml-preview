@@ -1,0 +1,21 @@
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Preview MJML'
+      'command': 'mjml-preview:preview'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'mjml-preview'
+      'submenu': [
+        {
+          'label': 'Preview MJML'
+          'command': 'mjml-preview:preview'
+        }
+      ]
+    ]
+  }
+]
