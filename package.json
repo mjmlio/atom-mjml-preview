@@ -1,10 +1,9 @@
 {
   "name": "mjml-preview",
   "main": "./lib/mjml-preview.js",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A short description of your package",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/mjmlio/atom-mjml-preview",
   "license": "MIT",
   "engines": {
