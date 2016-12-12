@@ -2,7 +2,7 @@
   "name": "mjml-preview",
   "main": "./lib/mjml-preview.js",
   "version": "1.0.0",
-  "description": "A short description of your package",
+  "description": "A package to preview how your email renders right from within Atom",
   "keywords": [],
   "repository": "https://github.com/mjmlio/atom-mjml-preview",
   "license": "MIT",
