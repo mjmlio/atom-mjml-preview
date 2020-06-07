@@ -10,7 +10,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "mjml": "^4.0.0",
+    "mjml": "^4.6.0",
     "atom-space-pen-views": "^2.0.5"
   },
   "devDependencies": {
