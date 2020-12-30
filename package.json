@@ -1,7 +1,7 @@
 {
   "name": "mjml-preview",
   "main": "./lib/mjml-preview.js",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "A package to preview how your email renders right from within Atom",
   "keywords": [],
   "repository": "https://github.com/mjmlio/atom-mjml-preview",
